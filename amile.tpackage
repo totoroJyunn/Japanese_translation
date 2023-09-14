@@ -1,1 +1,7 @@
-this will be a package contains original videos(usually four episode), a listning text and trascription text for each of them.
+This will be a package contains original videos(,and a biolingue(japanese and chinese included) caption for each of vidos.
+
+video naming format: 'bookname_epX_wm.mp4'
+example:“枕草子（日：makuranokusa）第1回” will be named as 'makuranokusa_ep01_wm.mp4)
+
+caption format: 'bookname_epX_bio.srt' 
+example: 'makuranokusa_ep01_bio.srt'
